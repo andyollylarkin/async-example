@@ -1,5 +1,8 @@
 main
 uv_tcp_server
+a.out
 
 .idea
 .vscode
+
+example*
